@@ -1,2 +1,2 @@
-/* Conflictos rebase resueltos */
+/* Conflictos rebase resueltoss */
 
